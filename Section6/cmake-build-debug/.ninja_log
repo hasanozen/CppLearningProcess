@@ -1,0 +1,7 @@
+# ninja log v5
+696	762	1668253502934869851	GlobalVariables	b4c23df539f0c535
+0	694	1668253502863658946	CMakeFiles/GlobalVariables.dir/GlobalVariables/main.cpp.o	732718029d743dab
+712	775	1668253508465012966	InitializingVariables	e2c0cda8547dc262
+0	712	1668253508399317135	CMakeFiles/InitializingVariables.dir/InitializingVariables/main.cpp.o	5eece611221a4a20
+0	1417	1668256390706971768	CMakeFiles/BuiltInPrimitiveTypes.dir/BuiltInPrimitiveTypes/main.cpp.o	23ae317014695b94
+1417	1538	1668256390834997386	BuiltInPrimitiveTypes	5c9fda67f7225caf
