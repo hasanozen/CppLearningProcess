@@ -130,6 +130,37 @@ build BuiltInPrimitiveTypes: CXX_EXECUTABLE_LINKER__BuiltInPrimitiveTypes_Debug 
   TARGET_FILE = BuiltInPrimitiveTypes
   TARGET_PDB = BuiltInPrimitiveTypes.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target SizeOfOperator
+
+
+#############################################
+# Order-only phony target for SizeOfOperator
+
+build cmake_object_order_depends_target_SizeOfOperator: phony || CMakeFiles/SizeOfOperator.dir
+
+build CMakeFiles/SizeOfOperator.dir/SizeOfOperator/main.cpp.o: CXX_COMPILER__SizeOfOperator_Debug /Users/hasanozen/CLionProjects/LearningProjects/Section6/SizeOfOperator/main.cpp || cmake_object_order_depends_target_SizeOfOperator
+  DEP_FILE = CMakeFiles/SizeOfOperator.dir/SizeOfOperator/main.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/SizeOfOperator.dir
+  OBJECT_FILE_DIR = CMakeFiles/SizeOfOperator.dir/SizeOfOperator
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SizeOfOperator
+
+
+#############################################
+# Link the executable SizeOfOperator
+
+build SizeOfOperator: CXX_EXECUTABLE_LINKER__SizeOfOperator_Debug CMakeFiles/SizeOfOperator.dir/SizeOfOperator/main.cpp.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/SizeOfOperator.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = SizeOfOperator
+  TARGET_PDB = SizeOfOperator.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -164,7 +195,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug
 
-build all: phony InitializingVariables GlobalVariables BuiltInPrimitiveTypes
+build all: phony InitializingVariables GlobalVariables BuiltInPrimitiveTypes SizeOfOperator
 
 # =============================================================================
 # Built-in targets

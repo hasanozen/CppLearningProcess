@@ -5,3 +5,7 @@
 0	712	1668253508399317135	CMakeFiles/InitializingVariables.dir/InitializingVariables/main.cpp.o	5eece611221a4a20
 0	1417	1668256390706971768	CMakeFiles/BuiltInPrimitiveTypes.dir/BuiltInPrimitiveTypes/main.cpp.o	23ae317014695b94
 1417	1538	1668256390834997386	BuiltInPrimitiveTypes	5c9fda67f7225caf
+0	1111	1668258368888187961	CMakeFiles/SizeOfOperator.dir/SizeOfOperator/main.cpp.o	63c99152d8aedf17
+1111	1222	1668258369003151321	SizeOfOperator	b0ec6cdf9982c0fd
+7	833	1668258417627835161	CMakeFiles/SizeOfOperator.dir/SizeOfOperator/main.cpp.o	63c99152d8aedf17
+833	915	1668258417713000443	SizeOfOperator	b0ec6cdf9982c0fd

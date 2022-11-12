@@ -17,7 +17,8 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					]
 				}
 			],
@@ -34,7 +35,8 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					]
 				}
 			],
@@ -59,6 +61,13 @@
 					"id" : "InitializingVariables::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-InitializingVariables-Debug-16faae7707071702c6b9.json",
 					"name" : "InitializingVariables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SizeOfOperator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SizeOfOperator-Debug-807106baa4c91d5e76e9.json",
+					"name" : "SizeOfOperator",
 					"projectIndex" : 0
 				}
 			]

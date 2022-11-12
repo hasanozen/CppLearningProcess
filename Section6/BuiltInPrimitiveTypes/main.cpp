@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){
+int main() {
     // Character type
     char typeCharacter {'J'};
     cout << "Character Type: " << typeCharacter << endl;

@@ -1,5 +1,6 @@
 /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/InitializingVariables.dir
 /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/GlobalVariables.dir
 /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/BuiltInPrimitiveTypes.dir
+/Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/SizeOfOperator.dir
 /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/hasanozen/CLionProjects/LearningProjects/Section6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
